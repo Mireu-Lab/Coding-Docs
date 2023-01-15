@@ -36,22 +36,32 @@
 
 > #### Laptop
 >
-> CPU :&#x20;
+> CPU :  Intel i7-1255U
 >
-> RAM :&#x20;
+> RAM : DDR4 16GB
 >
-> GPU :&#x20;
+> GPU : RTX2050
 >
 > OS : <mark style="color:orange;">Ubuntu 20.04 Desktop</mark> OR \
 > <mark style="color:orange;">WSL Ubuntu 20.04</mark> From <mark style="color:blue;">Windows 11</mark>&#x20;
+>
+> Language Version : Python3.10, Gcc 11.3.0, NodeJS 19.X
+
+
+
+저는 노트북과 서버를 사용중이에요!
+
+서버는 Domain, SSH, DateBase, Docker, Nginx, Apache를 테스트하기 위해서 사용되요!
 
 > #### Server
 >
-> CPU :&#x20;
+> CPU : Intel i3-5005U
 >
-> RAM :&#x20;
+> RAM : DDR3 12GB
 >
-> GPU :&#x20;
+> GPU :  Intel HD Graphics 5500
 >
 > OS : <mark style="color:orange;">Ubuntu 21.04 Server</mark>
+>
+> Language Version : Python3.10, Gcc 11.3.0, NodeJS 19.X
 
