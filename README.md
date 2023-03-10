@@ -42,10 +42,9 @@
 >
 > GPU : RTX2050
 >
-> OS : <mark style="color:orange;">Ubuntu 20.04 Desktop</mark> OR \
-> <mark style="color:orange;">WSL Ubuntu 20.04</mark> From <mark style="color:blue;">Windows 11</mark>&#x20;
+> OS : <mark style="color:orange;">WSL Ubuntu 20.04</mark> From <mark style="color:blue;">Windows 11</mark>&#x20;
 >
-> Language Version : Python3.10, Gcc 11.3.0, NodeJS 19.X
+> Language Version : Python3.11, Gcc 11.3.0, NodeJS 19.X, GoLang 1.20
 
 
 
@@ -63,5 +62,5 @@
 >
 > OS : <mark style="color:orange;">Ubuntu 21.04 Server</mark>
 >
-> Language Version : Python3.10, Gcc 11.3.0, NodeJS 19.X
+> Language Version : Python3.11, Gcc 11.3.0, NodeJS 19.X
 
