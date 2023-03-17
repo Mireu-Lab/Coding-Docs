@@ -11,7 +11,7 @@
   * [String](coding/1_variable_type/string.md)
   * [List](coding/1_variable_type/list.md)
   * [Dict](coding/1_variable_type/dict.md)
-* [if](coding/condition.md)
+* [조건문](coding/condition.md)
 * [반복문](coding/3_iteration/README.md)
   * [While](coding/3_iteration/while.md)
   * [For](coding/3_iteration/for.md)
