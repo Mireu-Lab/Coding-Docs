@@ -2,6 +2,8 @@
 
 * [Coding Docs](README.md)
 
+* [진행하기전.....](BeforeProceeding.md)
+
 ## UML
 
 * [Unified Modeling Language](uml/UML.md)
