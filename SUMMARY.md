@@ -4,7 +4,7 @@
 
 ## UML
 
-* [Unified Modeling Language](UML.md)
+* [Unified Modeling Language](uml/UML.md)
 
 ## Coding
 
