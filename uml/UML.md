@@ -42,49 +42,10 @@ UML은 "코드를 작성하기전 이런 저런 함수를 만들거고 이 변�
 
 종류는 아래와 같이 되어있습니다.
 
-1. [Use Case 다이어그램](#use-case-다이어그램) : 요구 분석 과정에서 시스템과 외부와의 상호작용을 묘사하는것.
-2. [Activity 다이어그램](#activity-다이어그램) : 업무의 흐름을 모델링하고 객체의 생명주기를 표현한것.
-3. [Sequence 다이어그램](#sequence-다이어그램) : 객체간의 메시지 전달을 시간적 흐름을 표현한것.
-4. [Collaboration 다이어그램](#collaboration-다이어그램) : 객체와 객체가 주고 받는 메세지중심을 표현한것.
-5. [Class 다이어그램](#class-다이어그램) : 시스템의 구조를 표현한것.
-6. [Component 다이어그램](#component-다이어그램) : 소프트웨어의 아키택처를 표현한것.
-7. [Deployment 다이어그램](#deployment-다이어그램) : 기업 환경의 구성과 컴포넌트들 간의 관계를 표현한것.
-
-
-## UML 어떻게 쓰는꼬?
-
-UML은 위와 같이 종류가 많습니다.
-
-하지만 보여주고 싶은형식에 따라서 다이어그램을 그리고 
-
-프로젝트 기획서에 작성해 올리면 개발자가 한숨쉬면서 쿵쿵딱합니다
-
-~~진짜에요~~
-
-### Use Case 다이어그램
-pass
-
-
-### Activity 다이어그램
-pass
-
-
-### Sequence 다이어그램
-pass
-
-
-###  Collaboration 다이어그램
-pass
-
-
-### Class 다이어그램
-pass
-
-
-###  Component 다이어그램
-pass
-
-
-###  Deployment 다이어그램
-pass
-
+1. [Use Case 다이어그램](./use-case.md) : 요구 분석 과정에서 시스템과 외부와의 상호작용을 묘사하는것.
+2. [Activity 다이어그램](./activity.md) : 업무의 흐름을 모델링하고 객체의 생명주기를 표현한것.
+3. [Sequence 다이어그램](./sequence.md) : 객체간의 메시지 전달을 시간적 흐름을 표현한것.
+4. [Collaboration 다이어그램](./collaboration.md) : 객체와 객체가 주고 받는 메세지중심을 표현한것.
+5. [Class 다이어그램](./class.md) : 시스템의 구조를 표현한것.
+6. [Component 다이어그램](./component.md) : 소프트웨어의 아키택처를 표현한것.
+7. [Deployment 다이어그램](./deployment.md) : 기업 환경의 구성과 컴포넌트들 간의 관계를 표현한것.
