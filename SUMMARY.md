@@ -7,6 +7,13 @@
 ## UML
 
 * [Unified Modeling Language](uml/UML.md)
+  * [Use Case 다이어그램](uml/diagram/use-case.md)
+  * [Activity 다이어그램](uml/diagram/activity.md)
+  * [Sequence 다이어그램](uml/diagram/sequence.md)
+  * [Collaboration 다이어그램](uml/diagram/collaboration.md)
+  * [Class 다이어그램](uml/diagram/class.md)
+  * [Component 다이어그램](uml/diagram/component.md)
+  * [Deployment 다이어그램](uml/diagram/deployment.md)
 
 ## Coding
 
@@ -56,27 +63,33 @@
 ## Server
 
 * [Domain](server/domain.md)
+  * [SSL](server/ssl.md)
 * [SSH](server/ssh.md)
 * [Git](server/git/README.md)
   * [GitHub](server/git/github.md)
   * [GitLab](server/git/gitlab.md)
   * [Bitbucket](server/git/bitbucket.md)
 * [DateBase](server/datebase/README.md)
-  * [SQLite](server/datebase/sqlite.md)
-  * [MySQL](server/datebase/mysql.md)
-  * [MariaDB](server/datebase/mariadb.md)
-  * [PostgresDB](server/datebase/postgresdb.md)
-  * [MongoDB](server/datebase/mongodb.md)
-  * [Redis](server/datebase/redis.md)
-* [Docker](server/docker.md)
-* [Kubernetes](server/kubernetes.md)
-* [Nginx](server/nginx.md)
-* [Apache](server/apache.md)
+  * [SQL](server/datebase/sql/README.md)
+    * [SQLite](server/datebase/sql/sqlite.md)
+    * [MySQL](server/datebase/sql/mysql.md)
+    * [MariaDB](server/datebase/sql/mariadb.md)
+    * [PostgresDB](server/datebase/sql/postgresdb.md)
+  * [NoSQL](server/datebase/nosql/README.md)
+    * [MongoDB](server/datebase/nosql/mongodb.md)
+    * [Redis](server/datebase/nosql/redis.md)
+* [Docker](server/container/docker.md)
+  * [Kubernetes](server/container/kubernetes.md)
+  * [OpenShift](server/container/openshift.md)
+* [Web Server](server/webserver/README.md)
+  * [Nginx](server/webserver/nginx.md)
+  * [Apache](server/webserver/apache.md)
 
 ## DL / ML
 
 * [DL / ML Framework](dl-ml/dl-ml-framework.md)
-* [CNN](dl-ml/cnn.md)
-* [RNN](dl-ml/rnn.md)
-* [GNN](dl-ml/gnn.md)
-* [GAN](dl-ml/gan.md)
+* [AI Model](dl-ml/ai-model/README.md)
+  * [CNN](dl-ml/ai-model/cnn.md)
+  * [RNN](dl-ml/ai-model/rnn.md)
+  * [GNN](dl-ml/ai-model/gnn.md)
+  * [GAN](dl-ml/ai-model/gan.md)
