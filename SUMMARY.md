@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Coding Docs](README.md)
-
 * [진행하기전.....](BeforeProceeding.md)
 
 ## UML
@@ -17,27 +16,27 @@
 
 ## Coding
 
-* [변수](coding/1_variable_type/README.md)
-  * [Int](coding/1_variable_type/int.md)
-  * [Float](coding/1_variable_type/float.md)
-  * [Char](coding/1_variable_type/char.md)
-  * [String](coding/1_variable_type/string.md)
-  * [List](coding/1_variable_type/list.md)
-  * [Dict](coding/1_variable_type/dict.md)
+* [변수](coding/undefined/README.md)
+  * [Int](coding/undefined/int.md)
+  * [Float](coding/undefined/float.md)
+  * [Char](coding/undefined/char.md)
+  * [String](coding/undefined/string.md)
+  * [List](coding/undefined/list.md)
+  * [Dict](coding/undefined/dict.md)
 * [조건문](coding/condition.md)
-* [반복문](coding/3_iteration/README.md)
-  * [While](coding/3_iteration/while.md)
-  * [For](coding/3_iteration/for.md)
-* [함수](coding/2_function/README.md)
-  * [Class](coding/2_function/class.md)
-  * [Def](coding/2_function/def.md)
-* [모듈](coding/condition.md)
-* [파일 / 형식](coding/4_data_types/README.md)
-  * [JSON](coding/4_data_types/json.md)
-  * [CSV](coding/4_data_types/csv.md)
-  * [XML](coding/4_data_types/xml.md)
-  * [YAML](coding/4_data_types/yaml.md)
-  * [CURL](coding/4_data_types/curl.md)
+* [반복문](coding/undefined-1/README.md)
+  * [While](coding/undefined-1/while.md)
+  * [For](coding/undefined-1/for.md)
+* [함수](coding/undefined-2/README.md)
+  * [Class](coding/undefined-2/class.md)
+  * [Def](coding/undefined-2/def.md)
+*
+* [파일 / 형식](coding/undefined-3/README.md)
+  * [JSON](coding/undefined-3/json.md)
+  * [CSV](coding/undefined-3/csv.md)
+  * [XML](coding/undefined-3/xml.md)
+  * [YAML](coding/undefined-3/yaml.md)
+  * [CURL](coding/undefined-3/curl.md)
 
 ## Language
 
@@ -81,7 +80,7 @@
 * [Docker](server/container/docker.md)
   * [Kubernetes](server/container/kubernetes.md)
   * [OpenShift](server/container/openshift.md)
-* [Web Server](server/webserver/README.md)
+* [Web Server](server/web-server/README.md)
   * [Nginx](server/webserver/nginx.md)
   * [Apache](server/webserver/apache.md)
 
