@@ -45,3 +45,8 @@
 >
 > Language Version : Python3.11, Gcc 11.3.0, NodeJS 19.X
 
+
+
+## ~~TMI~~
+
+~~솔직히 나도 복습하는용 블로그 두번다신 업데이트 안할예정~~
